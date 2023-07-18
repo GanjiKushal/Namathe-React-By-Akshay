@@ -39,3 +39,8 @@
 .foodImage{
     width: 100%
 }
+.footer{
+    border:1px solid black;
+    color:white;
+    background-color: grey;
+}
